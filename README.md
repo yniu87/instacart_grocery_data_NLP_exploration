@@ -1,4 +1,4 @@
-# instacart_grocery_data_NLP_exploration
+# instacart grocery data NLP exploration
 
 explore using NLP techniques (e.g. Word2vec) to predict/recommand products in instacart grocery data
 
